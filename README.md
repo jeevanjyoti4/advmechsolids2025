@@ -2,7 +2,7 @@
 <h2 align="center">Mechanical Engineering Department, Indian Institute of Technology Kharagpur</h2>
 
 
-This is a repository of some useful files from the Advanced Mechanics of Solids course running in the Spring semester of 2023. It is a Depth course for the 4th year Dual Degree students in the Mechanical Systems Design specialization as well as for the 1st year Master of Technology students in the same specialization. 
+This is a repository of some useful files from the Advanced Mechanics of Solids course running in the Spring semester of 2025. It is a Depth course for the 4th year Dual Degree students in the Mechanical Systems Design specialization as well as for the 1st year Master of Technology students in the same specialization. 
 
 * [Introduction to Jupyter Notebook and SymPy](https://nbviewer.org/github/jeevanjyoti4/advmechsolids2023/blob/master/intro_sympy.ipynb)
 
